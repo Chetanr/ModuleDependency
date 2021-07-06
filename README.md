@@ -8,11 +8,11 @@ Clone the project. To run the code using the terminal or the command line,
 
 2. compile the project using the below command
 
-    javac \*.java
+    > **javac \*.java**
 
 3. run the code using the below command
 
-    java Main
+    > **java Main**
 
 ### Exception and Error Handling
 
