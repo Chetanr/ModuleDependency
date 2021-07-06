@@ -16,7 +16,7 @@ Clone the project. To run the code using the terminal or the command line,
 
 ### Exception and Error Handling
 
-Exception is thrown when a trying to find the dependency of a module that is not existing.
+Exception is thrown when trying to find the dependency of a module that is not existing.
 
 ### Limitations
 
