@@ -2,23 +2,24 @@ The task has been implemented using JAVA.
 
 ### Running the code
 
-To run the code using the terminal or the command line,
+Clone the project. To run the code using the terminal or the command line,
 
-navigate to TechTestModuleDependency->src directory
+1. navigate to TechTestModuleDependency->src directory
 
-compile the project using the below command
+2. compile the project using the below command
 
-javac \*.java
+    javac \*.java
 
-run the code using the below command
+3. run the code using the below command
 
-java Main
+    java Main
 
 ### Exception and Error Handling
 
-Excpetion is thrown when a trying to find the dependency of a module that is not existing
+Exception is thrown when a trying to find the dependency of a module that is not existing.
 
 ### Limitations
 
-The program currently takes into account only hardcoded modules and check for the dependencies against them.
-The code does not read the test data from the file.
+1. The program currently takes into account only hardcoded modules and check for the dependencies against them.
+2. The code does not read the test data from the file.
+3. The code runs only once. For example, if you want to run it to find multiple dependencies, you need to re-run the code.
