@@ -2,7 +2,9 @@ The task has been implemented using JAVA.
 
 ### Running the code
 
-Clone the project. To run the code using the terminal or the command line,
+Clone the project. 
+
+To run the code, use the terminal in your IDE (Visual Studio Code is preferred) or the command line,
 
 1. navigate to TechTestModuleDependency->src directory
 
