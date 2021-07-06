@@ -24,4 +24,4 @@ Exception is thrown when trying to find the dependency of a module that is not e
 
 1. The program currently takes into account only hardcoded modules and check for the dependencies against them.
 2. The code does not read the test data from the file.
-3. The code runs only once. For example, if you want to run it to find multiple dependencies, you need to re-run the code.
+3. The code runs only once. For example, if you want to run it to find dependencies of more than one module, you need to re-run the code everytime.
